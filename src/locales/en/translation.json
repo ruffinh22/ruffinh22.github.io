@@ -1,0 +1,145 @@
+{
+  "home": "Home",
+  "about_me": "About me",
+  "projects": "Projects",
+  "contact": "Contact",
+  "cv": "CV",
+
+  "welcome": "Hello everyone!",
+  "iAm": "I'm",
+  "name": "Ruffin HOUNSOUNNON",
+
+  "strings_type": [
+    "Full Stack Programmer",
+    "Web Developer",
+    "Enthusiastic",
+    "Innovative",
+    "Creative",
+    "Passionate about Technology"
+  ],
+
+  "home_title_1": "Let Me Introduce Myself",
+
+  "home_text_1": "I am a passionate Web Developer in continuous training. I currently reside in Buenos Aires, Argentina, although I am originally from Mérida, Venezuela. Throughout my journey, I have invested my time in acquiring various knowledge and skills relevant to the industry, which are:",
+  "home_text_2": "Python, Java, React, Astro, MySQL, JavaScript, HTML, CSS, Bootstrap, Tailwind-CSS, Spring, WordPress, NodeJS, Postman, Vercel, GitHub, Figma, Jira, Trello, Notion, and Miro.",
+  "home_text_3": "I have a deep passion for technology and web development, and I am committed to continuing to learn every day to become an Outstanding Professional in the IT World.",
+  "home_text_4": "In addition to my technical skills, I have a strong background in customer service, where I developed competencies in problem resolution, technical support and account management. These experiences have taught me the importance of effective communication and teamwork.",
+  "home_text_5": "I am willing to take on New Challenges and be part of innovative teams in the sector.",
+
+  "about_tile_1": "Additional Information About Me",
+
+  "about_text_1": "I have participated in various training programs that have enriched my skill set as a programmer. These programs include:",
+  "about_text_2": "Full Stack — Developer Core at 'Digital Nao x Tecmilenio'.",
+  "about_text_3": "Full Stack Programmer at 'Egg Cooperation and Argentina Programa'.",
+  "about_text_4": "Front End Developer at 'Eidos Global and Accenture'.",
+  "about_text_5": "Previously, I was part of the University of the Andes, in Mérida, Venezuela, where I studied Electrical Engineering.",
+  "about_text_6": "In addition to my professional education, I have sought to expand my knowledge through self-study on educational platforms such as Udemy, FundAula, and Educacion IT.",
+  "about_text_7": "Additionally, I have worked on Personal Projects that have allowed me to apply and strengthen my web programming skills.",
+  "about_text_8": "In the customer service field, I have worked in various roles that have allowed me to develop critical skills such as technical problem solving, personalized attention, and the ability to work under pressure.",
+  "about_text_9": "These experiences have complemented my technical training, providing me with a broader perspective and interpersonal skills essential for teamwork.",
+
+  "tec_skills_title_1": "Technical Skills:",
+
+  "text_skills_tec_1": "Optimal Systems Management",
+  "text_skills_tec_2": "Process Optimization",
+  "text_skills_tec_3": "Computer Consulting",
+  "text_skills_tec_4": "Computer Assistance",
+  "text_skills_tec_5": "Customer Service",
+  "text_skills_tec_6": "Quality Control",
+  "text_skills_tec_7": "Technical Support",
+
+  "soft_skills_title_1": "Soft Skills:",
+
+  "text_skills_soft_1": "Logical and Analytical Thinking",
+  "text_skills_soft_2": "Effective Communication",
+  "text_skills_soft_3": "Attention to Detail",
+  "text_skills_soft_4": "Time Management",
+  "text_skills_soft_5": "Teamwork",
+  "text_skills_soft_6": "Adaptability",
+  "text_skills_soft_7": "Creativity",
+
+  "hobbies_title_1": "Hobbies:",
+
+  "text_hobbie_1": "Photography",
+  "text_hobbie_2": "Formula 1",
+  "text_hobbie_3": "Baseball",
+  "text_hobbie_4": "Football",
+  "text_hobbie_5": "Travel",
+  "text_hobbie_6": "Rock",
+
+  "title_tech_stack_1": "Professional Skill Set",
+
+  "title_tool_stack_1": "Tools I Use",
+
+  "title_github_1": "GitHub History",
+
+  "title_project_section_1": "My Projects",
+
+  "subtitle_project_section_1": "Here are some projects I have been working on.",
+
+  "projects_section": {
+
+    "title_project_7": "Frontend Mentor Challenges",
+    "description_project_7": "The Frontend Mentor Challenges repository is dedicated to recreating the various challenges from the Frontend Mentor platform. Its main objective is to enhance front-end development skills by tackling real-world design projects. Each challenge is implemented on Vercel. For more information about each challenge, please refer to the corresponding Readme. The technologies used include HTML, CSS, JavaScript, React, among others.",
+    "github_project_7": "https://github.com/eduardoe92/Challenge",
+    "link_project_7": "https://www.frontendmentor.io/",
+
+    "title_project_6": "QR App",
+    "description_project_6": "The QR App project is in constant development and focuses on QR code creation. Its goal is to provide users with a smooth, friendly, and enjoyable experience for easily generating QR codes for various applications. Over time, more features will be added to enhance the navigation experience. The application is deployed on Vercel and uses technologies such as React-Vite, JavaScript, Tailwind CSS, HTML, and CSS.",
+    "github_project_6": "https://github.com/eduardoe92/URL",
+    "link_project_6": "https://urlqr.vercel.app/",
+
+    "title_project_5": "Library",
+    "description_project_5": "The Library project is an application to manage a digital library. It allows users to register, update, and manage books, authors, and user accounts. Features include user registration, book and author management, password security, session control, and user roles. It uses Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, Maven, HTML, and Bootstrap to provide a secure and functional platform.",
+    "github_project_5": "https://github.com/eduardoe92/LibraryProject",
+    "link_project_5": "",
+
+    "title_project_4": "Server-Deployment-and-Containerization",
+    "description_project_4": "This is the project starter repo for the course Server Deployment, Containerization, and Testing. In this project i containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.",
+    "github_project_4": "https://github.com/ruffinh22/ruffinh22-cd0157-Server-Deployment-and-Containerization-591505e",
+    "link_project_4": "https:// in_progress/",
+
+    "title_project_3": "Caroline Seda",
+    "description_project_3": "The Digital Nao Project involved creating a Landing Page for 'Caroline Seda', a professional in Business Administration and Management. HTML, CSS, and Bootstrap technologies were used to ensure an elegant and functional presentation. The website highlights the skills and services offered by Caroline Seda, allowing visitors to get a clear and professional impression of her capabilities.",
+    "github_project_3": "https://github.com/eduardoe92/CarolineSada",
+    "link_project_3": "https://eduardoe92.github.io/CarolineSada/",
+
+    "title_project_2": "Pokedex",
+    "description_project_2": "The Pokedex Project, developed with React, uses the Pokemon API to provide users with access to the specifications of their favorite Pokémon. This application is hosted on Vercel, ensuring a smooth and reliable experience. With a focus on usability and data accuracy, the Pokedex Project is an invaluable tool for both Pokémon enthusiasts and developers. The interface is intuitive and easy to use.",
+    "github_project_2": "https://github.com/eduardoe92/Pokedex",
+    "link_project_2": "https://pokedex-eduardoe92.vercel.app/",
+
+    "title_project_1": "Fyyur",
+    "description_project_1": "The Rick and Morty Project, developed with React for the interface and using the series' API, provides users with detailed information about each character. The application is deployed on Vercel, ensuring an interactive, smooth, pleasant, and reliable platform for fans. It allows exploration of the series' universe in a detailed and fun way, offering an enriching and entertaining user experience.",
+    "github_project_1": "https://github.com/eduardoe92/ApiRickAndMorty",
+    "link_project_1": "https://rickandmorty-seven-virid.vercel.app/"
+  },
+
+  "Deployer": "Deploy",
+
+  "contact_title_1": "Thank You for Wanting to Get in Touch with Me",
+
+  "contact_text_1": "I am at your disposal to address any questions or concerns you may have.",
+  "contact_text_2": "If you wish to get in touch with me, you can do so through my social media or by completing the following form with all your details.",
+  "contact_text_3": "Please note that my availability may vary, but I will do my best to respond to your message as soon as possible.",
+  "contact_text_4": "I look forward to hearing from you soon!",
+  "contact_text_5": "Best regards.",
+
+  "form": {
+    "form_name": "Name:",
+    "form_email": "Mail:",
+    "form_subject": "Message:",
+
+    "alert_send": "Message sent succesfully.",
+    "alert_fail": "There was a problem sending the message.",
+
+    "form_pre_send": "Send",
+    "form_sending": "Sending...",
+    "form_error": "Error sending",
+    "form_send": "Sent"
+  },
+
+  "contact_icon_title_1": "Find Me on My Social Networks",
+
+  "contact_icon_subtitle_1": "Don't hesitate to get in touch with me"
+}

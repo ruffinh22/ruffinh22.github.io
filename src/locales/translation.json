@@ -1,0 +1,144 @@
+{
+  "home": "Inicio",
+  "about_me": "Acerca de",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "cv": "CV",
+
+  "welcome": "Hola a todos!",
+  "iAm": "Soy",
+  "name": "Eduardo Elías Chacón",
+
+  "strings_type": [
+    "Programador Full Stack",
+    "Desarrollador Web",
+    "Entusiasta",
+    "Innovador",
+    "Creativo",
+    "Apasionado por la Tecnología"
+  ],
+
+  "home_title_1": "Permíteme Presentarme",
+
+  "home_text_1": "Soy un apasionado Programador Web en constante formación. Actualmente resido en Buenos Aires, Argentina, aunque soy originario de Mérida, Venezuela. A lo largo de mi trayecto, he invertido mi tiempo en adquirir diversos conocimientos y habilidades relevantes para la industria, las cuales son:",
+  "home_text_2": "Java, React, Astro, MySQL, JavaScript, HTML, CSS, Bootstrap, Tailwind-CSS, Spring, WordPress, NodeJS, Postman, Vercel, GitHub, Figma, Jira, Trello, Notion y Miro.",
+  "home_text_3": "Siento una profunda pasión por la tecnología y el desarrollo web, y estoy comprometido a seguir aprendiendo cada día para convertirme en un Profesional de Excelencia en el Mundo IT.",
+  "home_text_4": "Además de mis habilidades técnicas, tengo una sólida experiencia en atención al cliente, donde he desarrollado competencias en resolución de problemas, soporte técnico, y gestión de cuentas. Estas experiencias me han enseñado la importancia de la comunicación efectiva y el trabajo en equipo.",
+  "home_text_5": "Estoy dispuesto a asumir Nuevos Desafíos y formar parte de equipos innovadores en el sector.",
+
+  "about_tile_1": "Información adicional acerca de mí",
+
+  "about_text_1": "He participado en diversos programas de formación que han enriquecido mi conjunto de habilidades como programador. Estos programas son: ",
+  "about_text_2": "Full Stack — Developer Core en 'Digital Nao x Tecmilenio'.",
+  "about_text_3": "Programador Full — Stack en 'Egg Cooperation y Argentina Programa'.",
+  "about_text_4": "Desarrollador Front — End en 'Eidos Global y Accenture'.",
+  "about_text_5": "Anteriormente formé parte de la Universidad de los Andes, en la ciudad de Mérida — Venezuela, en donde estudié la carrera de Ingeniería Eléctrica.",
+  "about_text_6": "Además de mi formación profesional, he buscado de manera autodidacta expandir mis conocimientos a través de plataformas educativas como Udemy, FundAula y Educacion IT.",
+  "about_text_7": "Adicionalmente, he trabajado en Proyectos Personales que me han permitido aplicar y fortalecer mis habilidades en programación web.",
+  "about_text_8": "En el ámbito de atención al cliente, he trabajado en varios roles que me han permitido desarrollar habilidades críticas como la resolución de problemas técnicos, la atención personalizada y la capacidad de trabajar bajo presión.",
+  "about_text_9": "Estas experiencias han complementado mi formación técnica, brindándome una perspectiva más amplia y habilidades interpersonales esenciales para el trabajo en equipo.",
+
+  "tec_skills_title_1": "Habilidades Técnicas:",
+
+  "text_skills_tec_1": "Manejo Óptimo de Sistemas",
+  "text_skills_tec_2": "Optimización de Procesos",
+  "text_skills_tec_3": "Consultoría Informática",
+  "text_skills_tec_4": "Asistencia Informática",
+  "text_skills_tec_5": "Servicio al Cliente",
+  "text_skills_tec_6": "Control de Calidad",
+  "text_skills_tec_7": "Soporte Técnico",
+
+  "soft_skills_title_1": "Habilidades Blandas:",
+
+  "text_skills_soft_1": "Pensamiento Lógico y Analítico",
+  "text_skills_soft_2": "Comunicación Efectiva",
+  "text_skills_soft_3": "Atención a los Detalles",
+  "text_skills_soft_4": "Gestión del Tiempo",
+  "text_skills_soft_5": "Trabajar en Equipo",
+  "text_skills_soft_6": "Adaptabilidad",
+  "text_skills_soft_7": "Creatividad",
+
+  "hobbies_title_1": "Hobbies:",
+
+  "text_hobbie_1": "Fotografía",
+  "text_hobbie_2": "Fórmula 1",
+  "text_hobbie_3": "Béisbol",
+  "text_hobbie_4": "Fútbol",
+  "text_hobbie_5": "Viajar",
+  "text_hobbie_6": "Rock",
+
+  "title_tech_stack_1": "Conjunto de Habilidades Profesionales",
+
+  "title_tool_stack_1": "Herramientas que utilizo",
+
+  "title_github_1": "Historial de Github",
+
+  "title_project_section_1": "Mis Proyectos",
+
+  "subtitle_project_section_1": "A continuación te enseño algunos proyectos en los que he estado trabajando.",
+
+  "projects_section": {
+    "title_project_7": "Frontend Mentor Challenges",
+    "description_project_7": "El repositorio Frontend Mentor Challenges se dedica a recrear los diferentes desafíos de la plataforma Frontend Mentor. Su objetivo principal es mejorar las habilidades de desarrollo front-end al abordar proyectos de diseño del mundo real. Cada desafío se encuentra implementado en Vercel. Para obtener más información sobre cada desafío, consulte el correspondiente Readme. Las tecnologías utilizadas incluyen HTML, CSS, JavaScript, React, entre otras.",
+    "github_project_7": "https://github.com/eduardoe92/Challenge",
+    "link_project_7": "https://www.frontendmentor.io/",
+
+    "title_project_6": "QR App",
+    "description_project_6": "El proyecto QR App está en constante desarrollo y se centra en la creación de códigos QR. Su objetivo es proporcionar a los usuarios una experiencia fluida, amigable y agradable para generar códigos QR fácilmente para diversas aplicaciones. Con el tiempo, se agregarán más funciones para mejorar la experiencia de navegación. La aplicación está implementada en Vercel y utiliza tecnologías como React-Vite, JavaScript, Tailwind CSS, HTML y CSS",
+    "github_project_6": "https://github.com/eduardoe92/URL",
+    "link_project_6": "https://urlqr.vercel.app/",
+
+    "title_project_5": "Librería",
+    "description_project_5": "El proyecto Biblioteca es una aplicación para gestionar una biblioteca digital. Permite a los usuarios registrar, actualizar y gestionar libros, autores y cuentas de usuario. Incluye características como registro de usuarios, gestión de libros y autores, seguridad de contraseñas, control de sesiones y roles de usuario. Utiliza Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, Maven, HTML y Bootstrap para ofrecer una plataforma segura y funcional.",
+    "github_project_5": "https://github.com/eduardoe92/LibraryProject",
+    "link_project_5": "",
+
+    "title_project_4": "Makisan Tech",
+    "description_project_4": "La Landing Page de Makisan-Tech, desarrollada con HTML, CSS y JavaScript, fue el resultado de una colaboración estrecha con un equipo de desarrolladores front-end. El objetivo principal fue optimizar la experiencia del usuario, asegurando una navegación fluida y una presentación atractiva que reflejara los valores de la empresa. Esto se logró mediante un diseño intuitivo y una estructura bien organizada que facilita el acceso a la información.",
+    "github_project_4": "https://github.com/eduardoe92/web-makisan-tech",
+    "link_project_4": "https://jonathansansok.github.io/web-makisan-tech/",
+
+    "title_project_3": "Caroline Seda",
+    "description_project_3": "El Proyecto de Digital Nao consistió en la creación de una Landing Page para 'Caroline Seda', profesional en Administración y Dirección de Empresas. Se emplearon tecnologías HTML, CSS y Bootstrap para su desarrollo, garantizando una presentación elegante y funcional. El sitio web resalta las habilidades y servicios ofrecidos por la licenciada, permitiendo a los visitantes obtener una impresión clara y profesional de sus capacidades.",
+    "github_project_3": "https://github.com/eduardoe92/CarolineSada",
+    "link_project_3": "https://eduardoe92.github.io/CarolineSada/",
+
+    "title_project_2": "Pokedex",
+    "description_project_2": "El Proyecto Pokedex, desarrollado con React, utiliza la API de Pokemon para brindar a los usuarios acceso a las especificaciones de sus Pokémon favoritos. Esta aplicación está alojada en Vercel, garantizando una experiencia fluida y confiable. Con un enfoque en la usabilidad y la precisión de los datos, el Proyecto Pokedex es una herramienta invaluable tanto para los entusiastas de Pokémon como para los desarrolladores. La interfaz es intuitiva y fácil de usar.",
+    "github_project_2": "https://github.com/eduardoe92/Pokedex",
+    "link_project_2": "https://pokedex-eduardoe92.vercel.app/",
+
+    "title_project_1": "Rick and Morty",
+    "description_project_1": "El Proyecto Rick and Morty, desarrollado con React para la interfaz y utilizando la API de la serie, proporciona a los usuarios información detallada sobre cada personaje. La aplicación está implementada en Vercel, asegurando una plataforma interactiva, fluida, agradable y confiable para los fans. Permite explorar el universo de la serie de manera detallada y divertida, ofreciendo una experiencia de usuario enriquecedora y entretenida.",
+    "github_project_1": "https://github.com/eduardoe92/ApiRickAndMorty",
+    "link_project_1": "https://rickandmorty-seven-virid.vercel.app/"
+  },
+
+  "Deployer": "Desplegar",
+
+  "contact_title_1": "Gracias por querer comunicarte conmigo",
+
+  "contact_text_1": "Estoy a tu disposición para abordar cualquier pregunta o inquietud que puedas tener.",
+  "contact_text_2": "Si deseas ponerte en contacto conmigo, puedes hacerlo a través de mis redes sociales o completando el siguiente formulario con todos tus datos.",
+  "contact_text_3": "Por favor, ten en cuenta que mi disponibilidad puede variar, pero haré todo lo posible por responder a tu mensaje en el menor tiempo posible.",
+  "contact_text_4": "¡Espero tener noticias tuyas pronto!",
+  "contact_text_5": "Saludos cordiales.",
+
+  "form": {
+    "form_name": "Nombre:",
+    "form_email": "Correo:",
+    "form_subject": "Mensaje:",
+
+    "alert_send": "Mensaje enviado con éxito",
+    "alert_fail": "Hubo un problema al enviar el mensaje.",
+
+    "form_pre_send": "Enviar",
+    "form_sending": "Enviando...",
+    "form_error": "Error al enviar",
+    "form_send": "Enviado"
+  },
+
+  "contact_icon_title_1": "Encuéntrame en mis redes sociales",
+
+  "contact_icon_subtitle_1": "No dudes en contactarte conmigo"
+}
