@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a0eb068.css",
+    "main.js": "/static/js/main.868c86d2.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/Pokedex.webp": "/static/media/Pokedex.c021675ea51320d1155e.webp",
+    "static/media/Challenges.webp": "/static/media/Challenges.d6cb643cbf12f8354eb7.webp",
+    "static/media/CV_2.pdf": "/static/media/CV_2.3629d96cd79940331470.pdf",
+    "static/media/header.webp": "/static/media/header.917036197f693241cbe2.webp",
+    "static/media/Makisan-Tech.webp": "/static/media/Makisan-Tech.57a2ba566b10f723bada.webp",
+    "static/media/CV_1.pdf": "/static/media/CV_1.dca751efb660d60afab2.pdf",
+    "static/media/CarolineSeda.webp": "/static/media/CarolineSeda.794e9b97a03c77410b2e.webp",
+    "static/media/RickAndMorty.webp": "/static/media/RickAndMorty.83aacc0b94d801ef56ff.webp",
+    "static/media/Library.webp": "/static/media/Library.9a25dd863ad07d182127.webp",
+    "static/media/logo.webp": "/static/media/logo.8cfd6b8d80f541303355.webp",
+    "static/media/contact.svg": "/static/media/contact.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/QR-App.webp": "/static/media/QR-App.23b591a582bcd83a6123.webp",
+    "static/media/user.svg": "/static/media/user.af836a283b2ee05dfddb8e3586646a44.svg",
+    "static/media/about.png": "/static/media/about.083559ad7f254c06edb4.png",
+    "static/media/ImagePersonal.webp": "/static/media/ImagePersonal.a5c03188fa90a16fc364.webp",
+    "static/media/pre.svg": "/static/media/pre.d088a0ce89228aab7483.svg",
+    "index.html": "/index.html",
+    "static/media/us.svg": "/static/media/us.912cb4a8f30b24032f0dbf258d674ae9.svg",
+    "static/media/fr.svg": "/static/media/fr.ba5c48d9018de68aabffdc77806375da.svg",
+    "main.4a0eb068.css.map": "/static/css/main.4a0eb068.css.map",
+    "main.868c86d2.js.map": "/static/js/main.868c86d2.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0eb068.css",
+    "static/js/main.868c86d2.js"
+  ]
+}
