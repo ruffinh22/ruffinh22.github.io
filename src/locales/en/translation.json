@@ -89,10 +89,10 @@
     "github_project_6": "https://github.com/eduardoe92/URL",
     "link_project_6": "https://urlqr.vercel.app/",
 
-    "title_project_5": "Library",
-    "description_project_5": "The Library project is an application to manage a digital library. It allows users to register, update, and manage books, authors, and user accounts. Features include user registration, book and author management, password security, session control, and user roles. It uses Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, Maven, HTML, and Bootstrap to provide a secure and functional platform.",
-    "github_project_5": "https://github.com/eduardoe92/LibraryProject",
-    "link_project_5": "",
+    "title_project_5": "Attendanc Management Students",
+    "description_project_5": "The project, Student Attendance Management System is a comprehensive solution developed using Django and REST Framework. Its primary goal is to simplify attendance tracking processes in educational institutions by providing efficient management of student attendance records.",
+    "github_project_5": "https://github.com/ruffinh22/Attendance_Manag_Stud",
+    "link_project_5": "https://ruffinh22.github.io/Attendance_Manag_Stud",
 
     "title_project_4": "Server-Deployment-and-Containerization",
     "description_project_4": "This is the project starter repo for the course Server Deployment, Containerization, and Testing. In this project i containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.",
