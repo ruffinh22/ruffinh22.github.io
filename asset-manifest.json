@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.85b0b09f.css",
-    "main.js": "/static/js/main.7bed016f.js",
+    "main.css": "/static/css/main.a59dfce2.css",
+    "main.js": "/static/js/main.3b3d2a00.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
-    "static/media/CV_2.pdf": "/static/media/CV_2.c9c4ce7557ebcffa7f20.pdf",
-    "static/media/CV_1.pdf": "/static/media/CV_1.5544bbf038d0b0cc0eba.pdf",
-    "static/media/logo.webp": "/static/media/logo.fbabe98647cefaa245f1.webp",
+    "static/media/logo.webp": "/static/media/logo.67435ef03443f39f2df2.webp",
+    "static/media/WiFi-Zone.webp": "/static/media/WiFi-Zone.211aa4b8e610a528510d.webp",
+    "static/media/Le-Mobilier.webp": "/static/media/Le-Mobilier.374476d724e6d0d55edd.webp",
     "static/media/Pokedex.webp": "/static/media/Pokedex.c021675ea51320d1155e.webp",
-    "static/media/RickAndMorty.webp": "/static/media/RickAndMorty.e4455fc713e4cc8b7c59.webp",
-    "static/media/header.webp": "/static/media/header.755cf339790eda8954bc.webp",
     "static/media/Challenges.webp": "/static/media/Challenges.d6cb643cbf12f8354eb7.webp",
+    "static/media/CV_2.pdf": "/static/media/CV_2.3629d96cd79940331470.pdf",
     "static/media/ImagePersonal.webp": "/static/media/ImagePersonal.bf6b2dd6bd7c1557e4fd.webp",
+    "static/media/header.webp": "/static/media/header.917036197f693241cbe2.webp",
     "static/media/Makisan-Tech.webp": "/static/media/Makisan-Tech.57a2ba566b10f723bada.webp",
+    "static/media/CV_1.pdf": "/static/media/CV_1.dca751efb660d60afab2.pdf",
     "static/media/CarolineSeda.webp": "/static/media/CarolineSeda.794e9b97a03c77410b2e.webp",
+    "static/media/School-Management.webp": "/static/media/School-Management.64bc4541582ab6f8b8de.webp",
+    "static/media/RickAndMorty.webp": "/static/media/RickAndMorty.83aacc0b94d801ef56ff.webp",
     "static/media/contact.svg": "/static/media/contact.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/QR-App.webp": "/static/media/QR-App.23b591a582bcd83a6123.webp",
     "static/media/user.svg": "/static/media/user.af836a283b2ee05dfddb8e3586646a44.svg",
@@ -22,12 +25,12 @@
     "index.html": "/index.html",
     "static/media/us.svg": "/static/media/us.912cb4a8f30b24032f0dbf258d674ae9.svg",
     "static/media/fr.svg": "/static/media/fr.ba5c48d9018de68aabffdc77806375da.svg",
-    "main.85b0b09f.css.map": "/static/css/main.85b0b09f.css.map",
-    "main.7bed016f.js.map": "/static/js/main.7bed016f.js.map",
+    "main.a59dfce2.css.map": "/static/css/main.a59dfce2.css.map",
+    "main.3b3d2a00.js.map": "/static/js/main.3b3d2a00.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.85b0b09f.css",
-    "static/js/main.7bed016f.js"
+    "static/css/main.a59dfce2.css",
+    "static/js/main.3b3d2a00.js"
   ]
 }
